@@ -1,4 +1,4 @@
-# Progressive Web Apps 
+# PWA - Tracker
 
 # How to Use
 You need [Node.js](https://nodejs.org) installed on your machine. Simply download the installer from [nodejs.org](https://nodejs.org) and go through the installation steps.
